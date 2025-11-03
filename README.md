@@ -30,7 +30,7 @@ An end-to-end data project exploring Airbnb listings in Berlin using a Modern Da
 
 ### 📊 Preset (Apache Superset) for BI and Analytics
 #### Why
--Open-source foundation with a managed SaaS option
+Open-source foundation with a managed SaaS option
 - Fast visual analysis with SQL control
 - Strong Snowflake integration
 
