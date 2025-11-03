@@ -1,6 +1,6 @@
 ## Analysing Airbnb Berlin 
 
-![preset_dashboard](docs/architecture2.png)
+![preset_dashboard](docs/preset_dashboard.png)
 
 An end-to-end data project exploring Airbnb listings in Berlin using a Modern Data Stack. The goal is to ingest raw marketplace data, transform it into analytical models, and generate insights on pricing, host behavior, and neighborhood patterns.
 
@@ -46,6 +46,6 @@ An end-to-end data project exploring Airbnb listings in Berlin using a Modern Da
 #### Dashboard with KPIs, pricing heatmaps, and host analytics
 #
 
-![architecture](docs/architecture.png)
+![architecture](docs/architecture2.png)
 
 ![lineage_graph](docs/lineage_graph.png)
